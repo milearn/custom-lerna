@@ -1,6 +1,6 @@
 {
   "name": "@custom/avatar",
-  "version": "1.1.2-alpha.0",
+  "version": "1.1.2-alpha.1",
   "description": "> TODO: description",
   "author": "milan gupta <milan.g@flipkart.com>",
   "homepage": "https://github.com/milangupta511/custom-lerna#readme",
@@ -26,5 +26,5 @@
   "bugs": {
     "url": "https://github.com/milangupta511/custom-lerna/issues"
   },
-  "gitHead": "82b9ab327f293358b031f84bd9f3f62dcd0f9e53"
+  "gitHead": "2ad1ef92183a06556704f6e38bd840747eb2fe48"
 }

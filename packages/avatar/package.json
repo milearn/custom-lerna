@@ -14,6 +14,7 @@
     "lib"
   ],
   "publishConfig": {
+    "access":"public",
     "registry": "https://registry.npmjs.com/"
   },
   "repository": {
@@ -26,5 +27,5 @@
   "bugs": {
     "url": "https://github.com/milangupta511/custom-lerna/issues"
   },
-  "gitHead": "6ea1b4254a64a2786a46e7bad92dde8e0928c719"
+  "gitHead": "7221b52e34e5615c28e4a11bc7707c4c84c6caca"
 }
